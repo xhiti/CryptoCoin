@@ -1,7 +1,17 @@
 # CryptoCoin-Blockchain-Programming
  CryptoCoin Ecosystem
 
-##What we do:
+## Overview
+According to stackoverflow, Python is the fastest-growing major programming language today. React.js is the most loved web framework. And there's no doubt that blockchains and cryptocurrencies are on the cutting edge of modern technology.
+
+## Main goals:
+1. Learn Python and Backend Web Development.
+2. Build a Blockchain and Cryptocurrency Project.
+3. Learn JavaScript, Frontend Web Development, React.js, and React Hooks.
+
+The main objective of this project is to build a blockchain and cryptocurrency. With a blockchain and cryptocurrency system as the main goal, we will go through a journey that starts with backend development using Python. Then, we will transaction to frontend web development with JavaScript, React.js, and React Hooks.
+
+## What we do:
 - Get an introduction of the Python Fundamentals.
 - Begin building the Blockchain Application with Python.
 - Test the Application using Pytest.
@@ -15,7 +25,7 @@
 - Create the frontend portion for the blockchain portion of the system.
 - Complete the frontend by building a UI for the cryptocurrency portion of the system.
 
-##What we learn:
+## What we learn:
 - How to build a blockchain and cryptocurrency system from scratch.
 - The fundamentals of python - data structures, object-oriented programming, modules, and more.
 - The ins and outs of hashing and sha256.
@@ -35,4 +45,7 @@
 - How the React engine works under the hood, and how React applies hooks.
 - CORS - and how to get over the CORS error properly.
 - How to build a pagination system.
+
+### Full Credits to:
+https://www.udemy.com/course/python-js-react-blockchain/ (David Joseph Katz)
 
