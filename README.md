@@ -46,6 +46,8 @@ The main objective of this project is to build a blockchain and cryptocurrency. 
 - CORS - and how to get over the CORS error properly.
 - How to build a pagination system.
 
+![Screenshot (3)](https://user-images.githubusercontent.com/51859550/131114254-e852a3c8-69e8-44d8-9877-f44a3ab74209.png)
+
 ### Full Credits to:
 https://www.udemy.com/course/python-js-react-blockchain/ (David Joseph Katz)
 
