@@ -1,5 +1,7 @@
 # GtiCoin-Blockchain-Programming
  GtiCoin Ecosystem Cryptocurrency
+ 
+ The project report will be post soon!
 
 ## Overview
 According to stackoverflow, Python is the fastest-growing major programming language today. React.js is the most loved web framework. And there's no doubt that blockchains and cryptocurrencies are on the cutting edge of modern technology.
