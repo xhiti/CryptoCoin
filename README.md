@@ -1,5 +1,5 @@
 # GtiCoin-Blockchain-Programming
- GtiCoin Ecosystem Cryptocurrency
+### GtiCoin Ecosystem Cryptocurrency
  
  The project report will be post soon!
 
